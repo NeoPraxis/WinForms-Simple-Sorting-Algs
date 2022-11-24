@@ -52,6 +52,8 @@
     <Compile Include="FormSortingAlgorithms.Designer.cs">
       <DependentUpon>FormSortingAlgorithms.cs</DependentUpon>
     </Compile>
+    <Compile Include="KMCBubbleSort.cs" />
+    <Compile Include="KMCBubbleSortGeneric.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="FormSortingAlgorithms.resx">
